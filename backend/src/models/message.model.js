@@ -15,6 +15,10 @@ const messageSchema = new mongoose.Schema(
     text: {
       type: String,
     },
+    image: {
+      type: String, // URL of the uploaded image
+      default: null,
+    },
   },
   { timestamps: true }
 );
