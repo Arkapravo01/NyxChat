@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Arkapravo01/Chatty#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "4.18.2"
   }
 }
